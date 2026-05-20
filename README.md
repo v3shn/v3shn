@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hey+there%2C+I'm+v3shn+%F0%9F%91%8B;Frontend+Developer;UI+%2F+UX+Enthusiast;Building+with+HTML+%2C+CSS+%26+JS" alt="Typing SVG" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:1e1e2e&height=160&section=header&text=v3shn&fontSize=52&fontColor=cba6f7&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Kerala%2C%20India&descAlignY=65&descColor=89b4fa&animation=fadeIn)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+v3shn+%F0%9F%91%8B;Frontend+Developer;UI+%2F+UX+Enthusiast;Building+with+HTML+%2C+CSS+%26+JS" alt="Typing SVG" />
 
 <br/>
 
-[![](https://komarev.com/ghpvc/?username=v3shn&color=58A6FF&style=flat-square&label=VISITORS)](https://github.com/v3shn)
-[![](https://img.shields.io/github/followers/v3shn?color=58A6FF&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/v3shn?tab=followers)
+[![](https://komarev.com/ghpvc/?username=v3shn&color=cba6f7&style=flat-square&label=VISITORS)](https://github.com/v3shn)
+[![](https://img.shields.io/github/followers/v3shn?color=89b4fa&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/v3shn?tab=followers)
 
 </div>
 
@@ -14,18 +16,21 @@
 <div align="center">
 
 ```bash
-$ whoami
+v3shn ~/portfolio ❯ cat whoami.json
 ```
 
 </div>
 
-```yaml
-name        : v3shn
-location    : Kerala, India 🌴
-role        : Frontend Developer
-focus       : Crafting clean, interactive UIs
-currently   : Building awesome web experiences
-fun_fact    : I debug with console.log and I'm not ashamed
+```json
+{
+  "name"     : "v3shn",
+  "role"     : "Frontend Developer",
+  "location" : "Kerala, India 🌴",
+  "skills"   : ["HTML", "CSS", "JavaScript"],
+  "focus"    : "Crafting clean, interactive UIs",
+  "status"   : "open to work ✦",
+  "fun_fact" : "I debug with console.log and I'm not ashamed"
+}
 ```
 
 ---
@@ -33,7 +38,7 @@ fun_fact    : I debug with console.log and I'm not ashamed
 <div align="center">
 
 ```bash
-$ cat tech-stack.json
+v3shn ~/portfolio ❯ cat tech-stack.sh
 ```
 
 ### 🖥️ Languages & Markup
@@ -62,15 +67,14 @@ $ cat tech-stack.json
 <div align="center">
 
 ```bash
-$ git log --stat --summary
+v3shn ~/portfolio ❯ git log --stat --summary
 ```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=v3shn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=12" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3shn&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&langs_count=6" />
+![v3shn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v3shn&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&border_radius=12)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v3shn&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_radius=12&langs_count=6)
 
-<img src="https://streak-stats.demolab.com/?user=v3shn&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=12" />
+![Streak](https://streak-stats.demolab.com/?user=v3shn&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&stroke=cba6f7&ring=cba6f7&fire=fab387&currStreakLabel=cba6f7&border_radius=12)
 
 </div>
 
@@ -79,7 +83,7 @@ $ git log --stat --summary
 <div align="center">
 
 ```bash
-$ ps aux | grep v3shn
+v3shn ~/portfolio ❯ ps aux | grep v3shn
 ```
 
 </div>
@@ -98,12 +102,12 @@ PID   PROCESS                          STATUS
 <div align="center">
 
 ```bash
-$ open --social
+v3shn ~/portfolio ❯ open --social
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-@v3shn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/v3shn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/v3shn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/v3shn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-cba6f7?style=for-the-badge&logo=safari&logoColor=white)](https://github.com/v3shn)
 
 </div>
 
@@ -112,17 +116,21 @@ $ open --social
 <div align="center">
 
 ```bash
-$ ./contribution-snake --animate
+v3shn ~/portfolio ❯ ./contribution-snake --animate
 ```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v3shn/v3shn/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v3shn/v3shn/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/v3shn/v3shn/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/v3shn/v3shn/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<br/><br/>
+</div>
 
-*crafted with ❤️ & way too much CSS*
+---
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:1e1e2e&height=100&section=footer)
+
+<div align="center">
+<sub>crafted with ❤️ & way too much CSS — <a href="https://github.com/v3shn">v3shn</a></sub>
 </div>
