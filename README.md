@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/v3shn/v3shn/main/assets/header.svg" width="100%" alt="v3shn terminal header"/>
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:1e1e2e&height=160&section=header&text=v3shn&fontSize=52&fontColor=cba6f7&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Kerala%2C%20India&descAlignY=65&descColor=89b4fa&animation=fadeIn)
+<br/>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&height=60&lines=Hey+there%2C+I'm+v3shn+%F0%9F%91%8B;Frontend+Developer;UI+%2F+UX+Enthusiast;Building+with+HTML+%2C+CSS+%26+JS" alt="Typing SVG" />
 
@@ -10,28 +14,6 @@
 [![](https://img.shields.io/github/followers/v3shn?color=89b4fa&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/v3shn?tab=followers)
 
 </div>
-
----
-
-<div align="center">
-
-```bash
-v3shn ~/portfolio ❯ cat whoami.json
-```
-
-</div>
-
-```json
-{
-  "name"     : "v3shn",
-  "role"     : "Frontend Developer",
-  "location" : "Kerala, India 🌴",
-  "skills"   : ["HTML", "CSS", "JavaScript"],
-  "focus"    : "Crafting clean, interactive UIs",
-  "status"   : "open to work ✦",
-  "fun_fact" : "I debug with console.log and I'm not ashamed"
-}
-```
 
 ---
 
@@ -125,12 +107,8 @@ v3shn ~/portfolio ❯ ./contribution-snake --animate
   <img alt="snake animation" src="https://raw.githubusercontent.com/v3shn/v3shn/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
+<br/><br/>
 
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:1e1e2e&height=100&section=footer)
-
-<div align="center">
 <sub>crafted with ❤️ & way too much CSS — <a href="https://github.com/v3shn">v3shn</a></sub>
+
 </div>
